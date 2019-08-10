@@ -2,7 +2,7 @@
 
 ![Dernière modification](https://img.shields.io/github/last-commit/XeBasTeX/LaTeX-ECL.svg)
 
-The codes produced during my internship at the Departement of Mathematics, in the University of Manchester. You need the *dev* version of ![oomph-lib](https://oomph-lib.maths.man.ac.uk) to run it.
+The codes produced during my internship at the Departement of Mathematics, in the University of Manchester. You need the *dev* version of ![oomph-lib](www.oomph-lib.maths.man.ac.uk) to run it.
 
 ## Acknowledgement
 
